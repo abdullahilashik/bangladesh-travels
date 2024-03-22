@@ -29,42 +29,16 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+Media Credits:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Photo by Ariful Haque: https://www.pexels.com/photo/man-planting-on-field-3560020/
+Photo by Ariful Haque: https://www.pexels.com/photo/men-riding-boat-on-body-of-water-3675856/
+Photo by Sharif Ahmed: https://www.pexels.com/photo/rocks-of-nafa-khum-waterfall-in-bangladesh-16710718/
+Photo by Tarikul Raana: https://www.pexels.com/photo/close-up-shot-of-a-butterfly-flying-around-blooming-yellow-flowers-5206249/
+Photo by Shahadat  Hossain : https://www.pexels.com/photo/man-in-white-shirt-walking-on-green-grass-field-6052967/
+Photo by Shahriar Tonmoy: https://www.pexels.com/photo/person-rowing-a-wooden-boat-5136822/
+Photo by Saif71.com  : https://www.pexels.com/photo/sprawling-fog-on-green-grass-and-trees-on-mountain-7086906/
+Photo by Omer Faruq Khan: https://www.pexels.com/photo/elderly-man-working-on-a-farm-10133695/
+Photo by Alexey Komissarov: https://www.pexels.com/photo/people-in-boats-and-the-lake-8910189/
+Photo by Alexey Komissarov: https://www.pexels.com/photo/people-in-boats-and-the-lake-8910189/
+Video by Drone  Lady: https://www.pexels.com/video/foggy-morning-narrow-road-19311554/
